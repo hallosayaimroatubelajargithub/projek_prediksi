@@ -42,6 +42,8 @@ pip install -r requirements.txt
 # Last step -> Run the application
 streamlit run app.py
 ```
+## Dataset
+<b>Link:</b> https://www.kaggle.com/datasets/shruthiiiee/orange-quality
 
 ## Online Access
 <b>Link:</b> https://final-project-analyst-sentiment-250602.streamlit.app/
