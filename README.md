@@ -49,7 +49,7 @@ streamlit run app.py
 <b>Link:</b> https://final-project-analyst-sentiment-250602.streamlit.app/
 
 ## Full Version on Medium
-<b>Link:</b> https://medium.com/@imroatuslch/lets-try-fd404ef114c9
+<b>Link:</b> https://medium.com/@imroatuslch/data-science-challenge-predicting-orange-quality-based-on-datasets-3e3ede46b2dd
 
 ## MIT License
 Copyright (c) 2024 Imroatu Solicah
